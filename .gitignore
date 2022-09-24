@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+Sample-spring-boot/.gradle
+Sample-spring-boot/build
+Sample-spring-boot/src/main/resources/application.properties
+Sample-spring-boot/HELP.md
+
 # Log file
 *.log
 
